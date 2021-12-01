@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Vacunacion Shark</string>
+
+    <string name="ini_txtv_vacunacion">VACUNACION</string>
+    <string name="ini_txtv_shark">SHARK</string>
+    <string name="log_txtv_mensaje">Inicia sesión para acceder a tu esquema de  vacunación, recordatorios, agendas y más:</string>
+    <string name="log_etxt_dni">Numero de documento de identidad</string>
+    <string name="log_etxt_fechaNac">Fecha de Nacimiento (dd/mm/yyyy)</string>
+    <string name="log_etxt_fechaEmi">Fecha de Emisión (dd/mm/yyyy)</string>
+    <string name="log_btn_ingresar">Ingresar</string>
+    <string name="log_btn_salir">Salir</string>
+    <string name="log_txtv_copyright">Derechos Reservados</string>
+
+    <string name="cfg_btn_cerrarSesion">Cerrar sesion</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fini_txtv_bienvenida">BIENVENIDO(A)</string>
+    <string name="fini_txtv_opciones">VACUNACION SHARK OFRECE LAS SIGUIENTES OPCIONES:</string>
+    <string name="fini_txtv_carnet">Carnet vacunación</string>
+    <string name="fini_txtv_vacunas">Vacunas sugeridas</string>
+    <string name="fini_txtv_ubicacion">Ubicacion</string>
+
+</resources>

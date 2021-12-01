@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragmentos.MenuFragment"
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:gravity="center"
+
+        >
+
+        <ImageButton
+        android:id="@+id/fme_btn_inicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/inicio"
+        android:layout_weight="1"
+        android:background="#0000"
+        />
+
+        <ImageButton
+            android:id="@+id/fme_btn_carnet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/carnet"
+            android:layout_weight="1"
+            android:background="#0000"
+            />
+
+        <ImageButton
+            android:id="@+id/fme_btn_vacunas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/vacunas"
+            android:layout_weight="1"
+            android:background="#0000"
+            />
+        <ImageButton
+            android:id="@+id/fme_btn_ubicacion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ubicacion"
+            android:layout_weight="1"
+            android:background="#0000"
+            />
+        <ImageButton
+            android:id="@+id/fme_btn_configuracion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/configuracion"
+            android:layout_weight="1"
+            android:background="#0000"
+            />
+
+    </LinearLayout>
+
+
+
+</FrameLayout>

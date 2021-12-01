@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".actividades.MenuActivity">
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:orientation="vertical"
+     android:background="@color/blue"
+     >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp"
+        >
+        <fragment
+            android:id="@+id/frg_menu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            class="com.example.vacunacionshark.fragmentos.MenuFragment"
+            tools:layout="@layout/fragment_menu">
+        </fragment>
+        <RelativeLayout
+            android:id="@+id/rl_menu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            >
+
+
+        </RelativeLayout>
+    </LinearLayout>
+ </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
