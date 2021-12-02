@@ -72,7 +72,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
             case R.id.btn_scan:
                         leerCodBarra(v);
-                        validarSeion_scan(txt_dni_scan);
                 ;
                 break;
         }
