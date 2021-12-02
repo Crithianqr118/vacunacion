@@ -20,5 +20,7 @@
     <string name="fini_txtv_carnet">Carnet vacunación</string>
     <string name="fini_txtv_vacunas">Vacunas sugeridas</string>
     <string name="fini_txtv_ubicacion">Ubicacion</string>
+    <string name="title_activity_ubicanos_fragment">UbicanosFragment</string>
+    <string name="title_activity_ubicacion_fragment">UbicacionFragment</string>
 
 </resources>

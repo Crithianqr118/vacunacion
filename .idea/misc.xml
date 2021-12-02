@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/activity_inicio.xml" value="0.2" />
         <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/activity_login.xml" value="0.15" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/activity_menu.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/activity_ubicacion_fragment.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/activity_ubicanos_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/fragment_carnet_vacunacion.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/fragment_configuracion.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/fragment_inicio.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/fragment_menu.xml" value="0.16842105263157894" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/fragment_ubicanos.xml" value="0.25" />
+        <entry key="..\:/Users/khriz/OneDrive/Pictures/Saved Pictures/Vacunacion Shark/app/src/main/res/layout/fragment_vacunas_sugeridas.xml" value="0.16842105263157894" />
       </map>
     </option>
   </component>
